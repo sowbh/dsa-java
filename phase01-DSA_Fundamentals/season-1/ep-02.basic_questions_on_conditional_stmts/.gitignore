@@ -1,0 +1,15 @@
+# Compiled Java Class Files
+*.class
+
+# Executables
+*.jar
+*.war
+*.ear
+
+# VS Code & Language Server Cache
+.vscode/
+.apt_generated/
+.classpath
+.project
+.settings/
+bin/
